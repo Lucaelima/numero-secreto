@@ -1,4 +1,4 @@
-# **Jogo do Número Secreto** *Alura*
+# **Jogo do Número Secreto** *alura*
 
 ## Sobre
 
