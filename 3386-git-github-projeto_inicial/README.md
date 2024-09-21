@@ -13,4 +13,4 @@
 
 ## Status
  
- Projeto de estudos
+ Projeto de estudos.
